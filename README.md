@@ -5,8 +5,6 @@ GUIDE
 Android 
 Step1 - Clone the Repository:
 
-git clone git@github.com:Maceforce/TheCraveCoach.git
-
 After that, open the project in VSCode and change the branch to prebuilds.
 git checkout prebuilds
 
@@ -37,8 +35,6 @@ Open the project in VSCode, navigate to the android folder, and run the command:
 
 IOS [Mac Required]
 Step1 -Clone the Repository:
-
-git clone git@github.com:Maceforce/TheCraveCoach.git
 
 After that, open the project in VSCode and change the branch to prebuilds.
 
